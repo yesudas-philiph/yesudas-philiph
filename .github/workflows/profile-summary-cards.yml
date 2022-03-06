@@ -16,4 +16,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.profile }}
         with:
-          USERNAME: ${{ github.repository_owner }}
+          USERNAME: ${{ github.yesudas-philiph }}
